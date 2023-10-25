@@ -5,6 +5,7 @@
    1. Topic Model - LDA(Latent Dirichlet Allocation)
    2. Linear Regression
    3. k-means Clustering & Silhouette Coefficient
+   4. Binary Classification (Scratch)
 
 
 ## 📝 Data Analysis
