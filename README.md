@@ -6,6 +6,7 @@
    2. Linear Regression
    3. k-means Clustering & Silhouette Coefficient
    4. Binary Classification (Scratch)
+   5. ANN - Binary Classification (Udemy Deep Learning A-Z™ 2023)
 
 
 ## 📝 Data Analysis
