@@ -8,6 +8,7 @@
    4. Binary Classification (Scratch)
    5. ANN - Binary Classification (Udemy Deep Learning A-Z™ 2023)
    6. LSTM - Prediction stock price of Google (Udemy Deep Learning A-Z™ 2023)
+   7. SOMs - Finding Frauds using Credit card applications dataset (Udemy Deep Learning A-Z™ 2023)
 
 
 ## 📝 Data Analysis
