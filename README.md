@@ -18,3 +18,4 @@
 
 ## 📝 Data pre-processing
    1. Text pre-processing - stemming, remove stopwords/punctuation/digit (cranfieldDocs)
+   2. Web Scraping - requests, BeautifulSoup
