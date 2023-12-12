@@ -14,6 +14,7 @@
 
 ## 📝 Data Analysis
    1. Affinity
+   2. Sentiment analysis with Yelp review
 
 
 ## 📝 Data pre-processing
