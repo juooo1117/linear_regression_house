@@ -10,6 +10,7 @@
    6. LSTM - Prediction stock price of Google (Udemy Deep Learning A-Z™ 2023)
    7. SOMs - Finding Frauds using Credit card applications dataset (Udemy Deep Learning A-Z™ 2023)
    8. Going from Unsupervised to Supervised Deep Learning - SOMs & ANN (Udemy Deep Learning A-Z™ 2023)
+   9. Text Binary Classifier - sentiment analysis with IMDB moview review Dataset
 
 
 ## 📝 Data Analysis
