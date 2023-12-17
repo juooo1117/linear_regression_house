@@ -11,6 +11,7 @@
    7. SOMs - Finding Frauds using Credit card applications dataset (Udemy Deep Learning A-Z™ 2023)
    8. Going from Unsupervised to Supervised Deep Learning - SOMs & ANN (Udemy Deep Learning A-Z™ 2023)
    9. Text Binary Classifier - sentiment analysis with IMDB moview review Dataset
+   10. Boltzmann Machine - recommend system (Udemy Deep Learning A-Z™ 2023)
 
 
 ## 📝 Data Analysis
