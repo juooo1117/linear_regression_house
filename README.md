@@ -13,6 +13,7 @@
    9. Text Binary Classifier - sentiment analysis with IMDB moview review Dataset
    10. Boltzmann Machine - recommend system (Udemy Deep Learning A-Z™ 2023)
    11. Stack Auto Encoders - recommend system (Udemy Deep Learning A-Z™ 2023)
+   12. Building Autoencoders in Keras (sparsity constraint & Deep & Convolutional & denoising)
 
 
 ## 📝 Data Analysis
