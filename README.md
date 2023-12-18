@@ -14,6 +14,7 @@
    10. Boltzmann Machine - recommend system (Udemy Deep Learning A-Z™ 2023)
    11. Stack Auto Encoders - recommend system (Udemy Deep Learning A-Z™ 2023)
    12. Building Autoencoders in Keras (sparsity constraint & Deep & Convolutional & denoising)
+   13. Classify text with BERT (TensorFlow tutorial, IMDB dataset)
 
 
 ## 📝 Data Analysis
