@@ -31,3 +31,4 @@
 
 ## 📝 MLOps
    1. TFX(Tensorflow Extended) pipeline for Penguin classification model (TensorFlow tutorial)
+   2. Data validation using TFX Pipeline with StatisticsGen, SchemaGen and ExampleValidator (TensorFlow tutorial)
