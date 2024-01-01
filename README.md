@@ -27,3 +27,7 @@
    2. Web Scraping - requests, BeautifulSoup
    3. NLP(Natural Language Processing) - NER with RFC & CRF
    4. word2vec - Skip Gram Model
+
+
+## 📝 MLOps
+   1. TFX(Tensorflow Extended) pipeline for Penguin classification model (TensorFlow tutorial)
